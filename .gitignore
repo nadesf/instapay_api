@@ -1,0 +1,9 @@
+__pycache__/
+.env
+venv/
+gmail_client.py
+instapayapi.log
+fic.txt
+Notes.txt 
+.idea/
+Doc/
